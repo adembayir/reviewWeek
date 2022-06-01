@@ -15,7 +15,7 @@ import org.testng.annotations.Test;
 import java.security.Key;
 import java.util.Arrays;
 
-public class task01 {
+public class Task01 {
 
     public static Double totalPrice() {
         try {
