@@ -46,12 +46,12 @@ public class task01 {
         driver.get(ConfigReader.getProperty("env"));
     }
 
-    /*
+
     @AfterMethod
     public void tearDown() {
         Driver.getDriver().quit();
     }
-    */
+
 
     @Test
     public void amazonTask() {
